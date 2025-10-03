@@ -1,0 +1,8 @@
+render-ai-website/
+├── README.md
+├── render.yaml
+├── package.json
+├── server.js # Express backend (serves static files + /api/generate)
+├── public/
+│ └── index.html # Frontend (vanilla HTML+JS) - simple prompt UI
+└── .gitignore
